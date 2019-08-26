@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-api-mgr/core-api-mgr.iml" filepath="$PROJECT_DIR$/core-api-mgr/core-api-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-authentication-mgr/core-authentication-mgr.iml" filepath="$PROJECT_DIR$/core-authentication-mgr/core-authentication-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-dev-tools/core-dev-tools.iml" filepath="$PROJECT_DIR$/core-dev-tools/core-dev-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-persistence-mgr/core-persistence-mgr.iml" filepath="$PROJECT_DIR$/core-persistence-mgr/core-persistence-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-general.iml" filepath="$PROJECT_DIR$/frame-general.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: tadie
+    url: jdbc:mysql://localhost/framework_base?useUnicode=true&characterEncoding=UTF-8&useSSL=true&serverTimezone=Asia/Shanghai
+  data:
+    elasticsearch:
+      cluster-nodes: localhost:9300
+      cluster-name: elasticsearch
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6001/eureka/

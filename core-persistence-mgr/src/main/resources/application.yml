@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: service-persistence
+server:
+  port: 8082
+  servlet:
+    context-path: /persistenceService
